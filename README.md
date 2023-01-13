@@ -6,8 +6,6 @@
 
 스타트업 백엔드 개발 중
 
-![JeongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghyeon00&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 <br>
