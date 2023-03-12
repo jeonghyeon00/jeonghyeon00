@@ -4,19 +4,16 @@
 
 > 컴퓨터공학과 3학년 재학
 
-> 스타트업 백엔드   
+ - [아온 스튜디오](https://aonstudio.co.kr/) Backend Developer **2022.03 ~ 재직 중**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 <br>
 
 
 # Languages
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> ★★★★   
-<img src="https://img.shields.io/badge/Java-3126CB?style=for-the-badge&logo=Java&logoColor=white"/> ★★★   
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>    
+<img src="https://img.shields.io/badge/Java-3126CB?style=for-the-badge&logo=Java&logoColor=white"/>    
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> ★
 
 
 # Skills
@@ -24,9 +21,6 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=Serverless&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 
 
 # DB
