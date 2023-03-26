@@ -4,7 +4,7 @@
 
 > 컴퓨터공학과 3학년 재학
 
- - [아온 스튜디오](https://aonstudio.co.kr/) Backend Developer **2022.03 ~ 2023.03**
+ - [아온 스튜디오] Backend Developer **2022.03 ~ 2023.03**
 
 
 <br>
@@ -27,4 +27,3 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=Flyway&logoColor=white"/>   
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>   
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>   
