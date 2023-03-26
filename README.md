@@ -4,7 +4,7 @@
 
 > 컴퓨터공학과 3학년 재학
 
- - [아온 스튜디오](https://aonstudio.co.kr/) Backend Developer **2022.03 ~ 재직 중**
+ - [아온 스튜디오](https://aonstudio.co.kr/) Backend Developer **2022.03 ~ 2023.03**
 
 
 <br>
