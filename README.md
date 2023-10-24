@@ -1,8 +1,9 @@
-# 소개
+# Me
 
-> 가천대학교 19학번   
+- 가천대학교 19학번
+- 컴퓨터공학과 3학년 재학
 
-> 컴퓨터공학과 3학년 재학
+# Career
 
  - [아온 스튜디오] Backend Developer **2022.03 ~ 2023.03**
 
@@ -20,6 +21,10 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=Serverless&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon SQS-FF4F8B?style=for-the-badge&logo=Amazon SQS&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+
 
 
 # DB
