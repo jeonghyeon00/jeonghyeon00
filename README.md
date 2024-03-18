@@ -16,6 +16,13 @@
 <img src="https://img.shields.io/badge/Java-3126CB?style=for-the-badge&logo=Java&logoColor=white"/>    
 
 
+# Projects
+
+미티 - 대학생을 위한 모임 플랫폼
+
+https://play.google.com/store/apps/details?id=com.gcc.miti&pli=1   
+https://apps.apple.com/kr/app/%EB%AF%B8%ED%8B%B0/id6478576518
+
 # Skills
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=white"/> <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=Serverless&logoColor=white"/> 
