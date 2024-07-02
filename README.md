@@ -3,6 +3,12 @@
 - 가천대학교 19학번
 - 컴퓨터공학과 4학년 재학
 
+<picture width='40%'>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeonghyeon00/github-contribution-snake/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeonghyeon00/github-contribution-snake/output/github-contribution-grid-snake.svg">
+  <img width='40%' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hotoo/hotoo/output/github-contribution-grid-snake.svg">
+</picture>
+
 # Career
 
  - [아온 스튜디오] Backend Developer **2022.03 ~ 2023.03**
