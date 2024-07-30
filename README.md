@@ -10,8 +10,8 @@
 </picture>
 
 # Career
-
  - [아온 스튜디오] Backend Developer **2022.03 ~ 2023.03**
+ - [온아웃](https://corp.on-out.com/) Backend Developer **2023.08~**
 
 
 # Languages
