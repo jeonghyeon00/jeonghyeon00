@@ -3,11 +3,7 @@
 - 가천대학교 19학번
 - 컴퓨터공학과 4학년 재학
 
-<picture width='40%'>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeonghyeon00/github-contribution-snake/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeonghyeon00/github-contribution-snake/output/github-contribution-grid-snake.svg">
-  <img width='40%' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hotoo/hotoo/output/github-contribution-grid-snake.svg">
-</picture>
+<img alt="test" src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg?githubId=jeonghyeon00&theme=DARK">
 
 # Career
  - [온아웃](https://corp.on-out.com/) Backend Developer **2023.08~**
