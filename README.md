@@ -3,6 +3,8 @@
 - 가천대학교 19학번
 - 컴퓨터공학과 4학년 재학
 
+<img alt="test" src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?githubId=jeonghyeon00&theme=LIGHT">
+
 # Career
  - [온아웃](https://corp.on-out.com/) Backend Developer **2023.08~**
 
@@ -34,4 +36,4 @@ https://apps.apple.com/kr/app/%EB%AF%B8%ED%8B%B0/id6478576518
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
 
 
-<img alt="test" src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg?githubId=jeonghyeon00&theme=DARK">
+
