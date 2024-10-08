@@ -1,9 +1,10 @@
-# Me
+<img alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.gif" src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/text?text=jeonghyeon00&theme=DARK">
+<img alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.gif" src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?nickname=jeonghyeon00&theme=DARK">
+
+# Education
 
 - 가천대학교 19학번
 - 컴퓨터공학과 4학년 재학
-
-<img alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.gif" src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?nickname=jeonghyeon00&theme=DARK">
 
 # Career
  - [온아웃](https://corp.on-out.com/) Backend Developer **2023.08~**
