@@ -14,10 +14,13 @@
 **spring-projects/spring-boot**    
 - [#42801 - Use Kotlin String Templates for Improved Readability](https://github.com/spring-projects/spring-boot/pull/42801)  
   Replaced string concatenation with Kotlin's string templates to enhance readability and maintainability.
-  
 - [#42809 - Polish: Remove redundant calls of getKotlinOptions](https://github.com/spring-projects/spring-boot/pull/42809)  
   Refactored KotlinConventions.java by eliminating redundant method calls.
-
+  
+**spring-projects/spring-data-jpa**
+- [#3648 - Replace !Optional.isPresent() with isEmpty() for readability](https://github.com/spring-projects/spring-data-jpa/pull/3648)   
+  Replace !Optional.isPresent() to isEmpty()
+  
 # Languages
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>    
 <img src="https://img.shields.io/badge/Java-3126CB?style=for-the-badge&logo=Java&logoColor=white"/>    
