@@ -1,5 +1,12 @@
-<img alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.jpg" src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/text?text=jeonghyeon00&theme=DARK">
-<img alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.jpg" src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?nickname=jeonghyeon00&theme=DARK">
+<a href="https://github.com/jeonghyeon00/github-decorator" target="_blank" style="text-decoration: none;">
+  <img 
+    alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.jpg" 
+    src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/text?text=jeonghyeon00&theme=DARK">
+    
+  <img 
+    alt="https://dying-clare-jeonghyeon-c5627439.koyeb.app/images/loading.jpg" 
+    src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?nickname=jeonghyeon00&theme=DARK">
+</a>
 
 # Education
 
