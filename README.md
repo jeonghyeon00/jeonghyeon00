@@ -37,8 +37,8 @@
 
 미티 - 대학생을 위한 모임 플랫폼
 
-https://play.google.com/store/apps/details?id=com.gcc.miti&pli=1   
-https://apps.apple.com/kr/app/%EB%AF%B8%ED%8B%B0/id6478576518
+<a href="https://play.google.com/store/apps/details?id=com.gcc.miti&pli=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/kr/app/%EB%AF%B8%ED%8B%B0/id6478576518" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/></a>
 
 # Skills
 
