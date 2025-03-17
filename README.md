@@ -17,7 +17,7 @@
 # Education
 
 - 가천대학교 19학번 **2023.08~2025.02**
-- 컴퓨터공학과 4학년 재학
+- 컴퓨터공학과 졸업
 
 # Career
  - [온아웃](https://corp.on-out.com/) Backend Developer **2023.08~**
