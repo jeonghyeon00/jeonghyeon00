@@ -1,6 +1,6 @@
 <a href="https://github.com/jeonghyeon00/github-decorator" target="_blank">
   <img 
-    src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/text?text=jeonghyeon00&theme=DARK" 
+    src="https://gd.breakti.me/api/v1/svg/text?text=jeonghyeon00&theme=DARK" 
     alt="Text Image" 
     style="display: block; margin: 10px auto;">
 </a>
@@ -9,7 +9,7 @@
 
 <a href="https://github.com/jeonghyeon00/github-decorator" target="_blank">
   <img 
-    src="https://dying-clare-jeonghyeon-c5627439.koyeb.app/api/v1/svg/languages?nickname=jeonghyeon00&theme=DARK" 
+    src="https://gd.breakti.me/api/v1/svg/languages?nickname=jeonghyeon00&theme=DARK" 
     alt="Languages Image" 
     style="display: block; margin: 10px auto;">
 </a>
