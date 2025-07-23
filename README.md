@@ -35,8 +35,7 @@
   Replace !Optional.isPresent() to isEmpty()
   
 # Languages
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>    
-<img src="https://img.shields.io/badge/Java-3126CB?style=for-the-badge&logo=Java&logoColor=white"/>    
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3126CB?style=for-the-badge&logo=Java&logoColor=white"/>    
 
 
 # Projects
@@ -48,12 +47,7 @@
 
 # Skills
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=white"/> <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=Serverless&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon SQS-FF4F8B?style=for-the-badge&logo=Amazon SQS&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 
 # DB
 
