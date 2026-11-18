@@ -1,0 +1,1 @@
+![JeongHyeon Song (@jeonghyeon00). I started out as a backend engineer and now work as a product engineer. I work with Kotlin and Spring Boot, and I’m interested in local LLMs and AI image and video generation. GPUs: CMP170HX 8GB and RTX 5080.](./terminal.svg)

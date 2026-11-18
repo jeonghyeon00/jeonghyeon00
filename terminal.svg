@@ -1,0 +1,602 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="400" viewBox="0 0 700 400" role="img" aria-labelledby="title description">
+  <title id="title">JeongHyeon Song’s terminal profile</title>
+  <desc id="description">I started out as a backend engineer and now work as a product engineer. I work with Kotlin and Spring Boot, and I’m interested in local LLMs and AI image and video generation. GPUs: CMP170HX 8GB and RTX 5080.</desc>
+
+  <style>
+    .knot-frames { animation: knot-spin 2.4s steps(24, end) infinite; }
+    @keyframes knot-spin { to { transform: translateY(-4080px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .knot-frames { animation: none; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="window">
+      <rect width="700" height="400" rx="14"/>
+    </clipPath>
+    <clipPath id="knot-frame">
+      <rect x="38" y="119" width="192" height="170"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#window)" font-family="Consolas, 'Liberation Mono', 'Courier New', monospace">
+    <rect width="700" height="400" fill="#101111"/>
+    <rect width="700" height="37" fill="#1b1d1d"/>
+    <path d="M0 37.5H700" stroke="#2c3030"/>
+    <g fill="#505454">
+      <circle cx="20" cy="19" r="4.5"/>
+      <circle cx="36" cy="19" r="4.5"/>
+      <circle cx="52" cy="19" r="4.5"/>
+    </g>
+    <text x="350" y="24" text-anchor="middle" fill="#a2a8a7" font-size="15">~/jeonghyeon00</text>
+
+    <rect x="17.5" y="58.5" width="665" height="276" rx="10" fill="none" stroke="#3d4443"/>
+    <path d="M30 58.5H95" stroke="#101111" stroke-width="4"/>
+    <text x="37" y="63" fill="#a8cbb1" font-size="15">whoami</text>
+    <path d="M250.5 80V314M274 149.5H660" stroke="#363b3a"/>
+
+    <g text-anchor="middle">
+      <text x="134" y="98" fill="#edf0ee" font-size="20" font-weight="700">JeongHyeon Song</text>
+      <text x="134" y="310" fill="#a2a8a7" font-size="16">@jeonghyeon00</text>
+    </g>
+    <g clip-path="url(#knot-frame)" fill="#a8cbb1" font-size="11.25" aria-hidden="true">
+      <!-- One 170-unit slot per trefoil frame. The clip shows the current frame. -->
+      <g class="knot-frames">
+        <g transform="translate(0 0)">
+          <text x="38" y="137.1" xml:space="preserve">            *%%####*+</text>
+          <text x="38" y="144.2" xml:space="preserve">          %%%%###****+=</text>
+          <text x="38" y="151.3" xml:space="preserve">         @%%###*****+++=</text>
+          <text x="38" y="158.4" xml:space="preserve">       *@%%##+=----==+++-</text>
+          <text x="38" y="165.5" xml:space="preserve">       %%%#*-#*    -==++=</text>
+          <text x="38" y="172.6" xml:space="preserve">     #%%%#+-%%%%%##* +++=:</text>
+          <text x="38" y="179.7" xml:space="preserve">    %%%%#*-#%#%%%%%%%%##=:</text>
+          <text x="38" y="186.8" xml:space="preserve">   ##*%#*+-=+*##%%%%%%%##*</text>
+          <text x="38" y="193.9" xml:space="preserve">  ###*##*=     -=+**#####**=</text>
+          <text x="38" y="201.0" xml:space="preserve">  ###*#**=-        #-=*****+-</text>
+          <text x="38" y="208.1" xml:space="preserve"> +##*=***+=-       %##*=++*+=</text>
+          <text x="38" y="215.2" xml:space="preserve"> +##*==+++=--     %%#*+:=+++=-</text>
+          <text x="38" y="222.3" xml:space="preserve"> +##*+ ====--:   *%%#+-  +++=-</text>
+          <text x="38" y="229.4" xml:space="preserve">  ###*=  ----:-- %%#*=  *++=--</text>
+          <text x="38" y="236.5" xml:space="preserve">  *###*-  :::-=+#%%#+- #**+=-</text>
+          <text x="38" y="243.6" xml:space="preserve">  =#####+  --==#%##*=###*++--</text>
+          <text x="38" y="250.7" xml:space="preserve">   +#######*#%%%##*+-##*+=-:</text>
+          <text x="38" y="257.8" xml:space="preserve">    =*####%%%####*=-**+=::</text>
+          <text x="38" y="264.9" xml:space="preserve">      =*######**+-:::::</text>
+          <text x="38" y="272.0" xml:space="preserve">        -==++=--</text>
+        </g>
+        <g transform="translate(0 170)">
+          <text x="38" y="137.1" xml:space="preserve">            +%%###**</text>
+          <text x="38" y="144.2" xml:space="preserve">          %%%%##*****+</text>
+          <text x="38" y="151.3" xml:space="preserve">        %@%%###******++-</text>
+          <text x="38" y="158.4" xml:space="preserve">       %@%%##+=----=+++=</text>
+          <text x="38" y="165.5" xml:space="preserve">      #%%%#+-+     -=++=-</text>
+          <text x="38" y="172.6" xml:space="preserve">      %%##=%%%%%%%##=+++-</text>
+          <text x="38" y="179.7" xml:space="preserve">    ##%##+-%##%%%%%%%%%#+</text>
+          <text x="38" y="186.8" xml:space="preserve">   #%#%#*=++*#%%%%#%#%###*+</text>
+          <text x="38" y="193.9" xml:space="preserve">   #####+-    ==+***#####**+</text>
+          <text x="38" y="201.0" xml:space="preserve">  ##**#*+-         #%-+****+=</text>
+          <text x="38" y="208.1" xml:space="preserve">  ##*+**+==        %##+-=+++=-</text>
+          <text x="38" y="215.2" xml:space="preserve">  ##*+++++==-     #%#*=  =++=-</text>
+          <text x="38" y="222.3" xml:space="preserve">  ##*+ =====-:-   %%#+-  ++==-</text>
+          <text x="38" y="229.4" xml:space="preserve">  ###*= -----:-= #%#*+  *++=--</text>
+          <text x="38" y="236.5" xml:space="preserve">  *###*-  ::::-++%##*-##**==-</text>
+          <text x="38" y="243.6" xml:space="preserve">   *####+  :--=+%%##+-#**+=-:</text>
+          <text x="38" y="250.7" xml:space="preserve">   =*######* #%%%##*-#**+-:</text>
+          <text x="38" y="257.8" xml:space="preserve">    =*####%%%%####+-==-::</text>
+          <text x="38" y="264.9" xml:space="preserve">      +*#######**+-</text>
+          <text x="38" y="272.0" xml:space="preserve">        -=++++==-</text>
+        </g>
+        <g transform="translate(0 340)">
+          <text x="38" y="137.1" xml:space="preserve">            *#%###*+</text>
+          <text x="38" y="144.2" xml:space="preserve">          %%%%###****+</text>
+          <text x="38" y="151.3" xml:space="preserve">        %@%#####***+*+=</text>
+          <text x="38" y="158.4" xml:space="preserve">       @@#%#*+=---==+++=</text>
+          <text x="38" y="165.5" xml:space="preserve">      %%%%#+-      -=++=</text>
+          <text x="38" y="172.6" xml:space="preserve">     #%%%#-%%%%#####*++=-</text>
+          <text x="38" y="179.7" xml:space="preserve">     %%#*=%%#%%%%%%%%%%#*</text>
+          <text x="38" y="186.8" xml:space="preserve">   +#%##+-**##%%%%%%%%###*+</text>
+          <text x="38" y="193.9" xml:space="preserve">   #####+:   -=++++***###**+</text>
+          <text x="38" y="201.0" xml:space="preserve">  *###**+-         #%-=++*++=</text>
+          <text x="38" y="208.1" xml:space="preserve">  ##****+==        %##+-=+++=-</text>
+          <text x="38" y="215.2" xml:space="preserve">  ##*=**+====     #%#*-  ====-</text>
+          <text x="38" y="222.3" xml:space="preserve">  *#*+=++===---   %%#*-  +===-</text>
+          <text x="38" y="229.4" xml:space="preserve">  *##*+--------===%##+-***+=--</text>
+          <text x="38" y="236.5" xml:space="preserve">  +*##*=  --::-=+%%##+##*+==-</text>
+          <text x="38" y="243.6" xml:space="preserve">   *###*+   ::-=#%##*-##*+=:</text>
+          <text x="38" y="250.7" xml:space="preserve">   -*#####*-  #%%##*=*++--:</text>
+          <text x="38" y="257.8" xml:space="preserve">     *####%%%%%###*=-::</text>
+          <text x="38" y="264.9" xml:space="preserve">      +*########*+=</text>
+          <text x="38" y="272.0" xml:space="preserve">        -=+**+++--</text>
+        </g>
+        <g transform="translate(0 510)">
+          <text x="38" y="137.1" xml:space="preserve">            #####*+</text>
+          <text x="38" y="144.2" xml:space="preserve">         #%%%%##****+-</text>
+          <text x="38" y="151.3" xml:space="preserve">        %%%%##*****+*+=</text>
+          <text x="38" y="158.4" xml:space="preserve">       @%%%#*+=--==+++=-</text>
+          <text x="38" y="165.5" xml:space="preserve">      %%#%*+-     -==++=</text>
+          <text x="38" y="172.6" xml:space="preserve">     %%%%*-%%####%###++=</text>
+          <text x="38" y="179.7" xml:space="preserve">     %%#*-#%%%%%%%%%%%%##+</text>
+          <text x="38" y="186.8" xml:space="preserve">    #%##+####%%%%%%%#####**=</text>
+          <text x="38" y="193.9" xml:space="preserve">   ####*=---==+++++********+=</text>
+          <text x="38" y="201.0" xml:space="preserve">   #*##*=          %%#-=++++=-</text>
+          <text x="38" y="208.1" xml:space="preserve">  *#+***==         %%#+--====-</text>
+          <text x="38" y="215.2" xml:space="preserve">  *#****+=====    *%##=  ====-</text>
+          <text x="38" y="222.3" xml:space="preserve">  *#*+++++===--=  #%#*- ++==--</text>
+          <text x="38" y="229.4" xml:space="preserve">  +#**+=====----++###+-#**+=--</text>
+          <text x="38" y="236.5" xml:space="preserve">   ****+ ----::-+*%##+##*+=-:</text>
+          <text x="38" y="243.6" xml:space="preserve">   +*##**    ::-=%##*=#*+=-:</text>
+          <text x="38" y="250.7" xml:space="preserve">    +*####*+   #%##*+-=-::</text>
+          <text x="38" y="257.8" xml:space="preserve">     +*####%%%%%##*+-</text>
+          <text x="38" y="264.9" xml:space="preserve">      -+*#####%#*+=-</text>
+          <text x="38" y="272.0" xml:space="preserve">        -++***++=-</text>
+        </g>
+        <g transform="translate(0 680)">
+          <text x="38" y="137.1" xml:space="preserve">            *####*</text>
+          <text x="38" y="144.2" xml:space="preserve">         *%%%%##****+</text>
+          <text x="38" y="151.3" xml:space="preserve">        @@%#####***+++</text>
+          <text x="38" y="158.4" xml:space="preserve">      %@%%#**+=====+++=</text>
+          <text x="38" y="165.5" xml:space="preserve">     *%%#%*=-     ==++=-</text>
+          <text x="38" y="172.6" xml:space="preserve">     %%##+-%#####%%###+-</text>
+          <text x="38" y="179.7" xml:space="preserve">    #%%%*-%#%%%%%%%%%%%##*</text>
+          <text x="38" y="186.8" xml:space="preserve">    #%#*-####%%%%%%%%%###**+</text>
+          <text x="38" y="193.9" xml:space="preserve">   +###+-=-==+++++++++*****+=</text>
+          <text x="38" y="201.0" xml:space="preserve">   ####+-          %%#+-++++=-</text>
+          <text x="38" y="208.1" xml:space="preserve">   #***+=-         %##+  ====-</text>
+          <text x="38" y="215.2" xml:space="preserve">  +#=***+=+++     *%##=  ===--</text>
+          <text x="38" y="222.3" xml:space="preserve">  +**+++++++===== #%#*= *+==--</text>
+          <text x="38" y="229.4" xml:space="preserve">   ***=======---=+###*-##*==-:</text>
+          <text x="38" y="236.5" xml:space="preserve">   ****+------:-=+###*-**+--:</text>
+          <text x="38" y="243.6" xml:space="preserve">   =*****-   :::=####+-+=-:</text>
+          <text x="38" y="250.7" xml:space="preserve">    =*####*+   *####*-::</text>
+          <text x="38" y="257.8" xml:space="preserve">     =*#####%%%%##**=</text>
+          <text x="38" y="264.9" xml:space="preserve">      -+*#*######*+-</text>
+          <text x="38" y="272.0" xml:space="preserve">        -=*****+=--</text>
+          <text x="38" y="279.1" xml:space="preserve">            :::</text>
+        </g>
+        <g transform="translate(0 850)">
+          <text x="38" y="137.1" xml:space="preserve">             ###*+</text>
+          <text x="38" y="144.2" xml:space="preserve">         %%%%%###**+=</text>
+          <text x="38" y="151.3" xml:space="preserve">       %@%%####****++=</text>
+          <text x="38" y="158.4" xml:space="preserve">      %%%%##*+====++++-</text>
+          <text x="38" y="165.5" xml:space="preserve">     %%%%#+=-    -==++=</text>
+          <text x="38" y="172.6" xml:space="preserve">    *%%#*=##**##%%%%%%#+</text>
+          <text x="38" y="179.7" xml:space="preserve">    %%##=%%%%%%%%%%%%%###*+</text>
+          <text x="38" y="186.8" xml:space="preserve">    %##+-##%#%%%%%%##%##***+=</text>
+          <text x="38" y="193.9" xml:space="preserve">    ###=+==++*++++===++++*++=-</text>
+          <text x="38" y="201.0" xml:space="preserve">   *##*=:          %##+--==+=-</text>
+          <text x="38" y="208.1" xml:space="preserve">   *#**+=          %##+  -===-</text>
+          <text x="38" y="215.2" xml:space="preserve">   ****+++++       %##+  +=---</text>
+          <text x="38" y="222.3" xml:space="preserve">   **+*++++++====+ %##=##*=---</text>
+          <text x="38" y="229.4" xml:space="preserve">   ***+++++===--=+*###=#*+=--</text>
+          <text x="38" y="236.5" xml:space="preserve">   +***-------:-=+###*=**=-:</text>
+          <text x="38" y="243.6" xml:space="preserve">    *****+    :::-###+--::</text>
+          <text x="38" y="250.7" xml:space="preserve">     **###*+    ####+=-</text>
+          <text x="38" y="257.8" xml:space="preserve">     =**#####%%%###++-</text>
+          <text x="38" y="264.9" xml:space="preserve">       =*########**=-</text>
+          <text x="38" y="272.0" xml:space="preserve">         =+****++=-</text>
+          <text x="38" y="279.1" xml:space="preserve">            ::::</text>
+        </g>
+        <g transform="translate(0 1020)">
+          <text x="38" y="137.1" xml:space="preserve">            *##*+</text>
+          <text x="38" y="144.2" xml:space="preserve">         %%%%####**+</text>
+          <text x="38" y="151.3" xml:space="preserve">       %%%%####*****+</text>
+          <text x="38" y="158.4" xml:space="preserve">      @%%###++==+++++=</text>
+          <text x="38" y="165.5" xml:space="preserve">     %%%%#+-     -=+++=</text>
+          <text x="38" y="172.6" xml:space="preserve">    %%%#*-    #%%%%%%%##*</text>
+          <text x="38" y="179.7" xml:space="preserve">    %%##-%%%%%%%%%%%%####**=</text>
+          <text x="38" y="186.8" xml:space="preserve">   #%##+######%%%%######***+=</text>
+          <text x="38" y="193.9" xml:space="preserve">   ###*-*++***+++-----==++++=-</text>
+          <text x="38" y="201.0" xml:space="preserve">   ###*---         %##+ -====-</text>
+          <text x="38" y="208.1" xml:space="preserve">   *##*=-          %##+  ===--</text>
+          <text x="38" y="215.2" xml:space="preserve">   ****++=         %##+ *+=---</text>
+          <text x="38" y="222.3" xml:space="preserve">   *+***+++++++=+++###+##*==--</text>
+          <text x="38" y="229.4" xml:space="preserve">   +*=++++++===-=++###+#*+=-:</text>
+          <text x="38" y="236.5" xml:space="preserve">    ***-====--:--=+###+*+-::</text>
+          <text x="38" y="243.6" xml:space="preserve">    +****+    :::-##**=-:</text>
+          <text x="38" y="250.7" xml:space="preserve">     ***##*+     ###*=-</text>
+          <text x="38" y="257.8" xml:space="preserve">      +**#####%%###*+-</text>
+          <text x="38" y="264.9" xml:space="preserve">       =**#######*+=-</text>
+          <text x="38" y="272.0" xml:space="preserve">         ==+****+=-:</text>
+          <text x="38" y="279.1" xml:space="preserve">            :::::</text>
+        </g>
+        <g transform="translate(0 1190)">
+          <text x="38" y="137.1" xml:space="preserve">            +#*+</text>
+          <text x="38" y="144.2" xml:space="preserve">         %%%%####*+</text>
+          <text x="38" y="151.3" xml:space="preserve">       %%%####******+</text>
+          <text x="38" y="158.4" xml:space="preserve">     #%%%##*+===+++*+=</text>
+          <text x="38" y="165.5" xml:space="preserve">     %%%#*=-    -=++++-</text>
+          <text x="38" y="172.6" xml:space="preserve">    %%##+-    %%@@@%%%%##*</text>
+          <text x="38" y="179.7" xml:space="preserve">   #%##+-%%%%%%%%%%%%###***+</text>
+          <text x="38" y="186.8" xml:space="preserve">   %%#*-####%#%#####*******+=</text>
+          <text x="38" y="193.9" xml:space="preserve">   %##+-#*****+=-- %##--==++=-</text>
+          <text x="38" y="201.0" xml:space="preserve">   ###+-----       %%#+  -===-</text>
+          <text x="38" y="208.1" xml:space="preserve">   ###+=:          %%#+  +==--</text>
+          <text x="38" y="215.2" xml:space="preserve">   +***+=          #%#*-#*=---</text>
+          <text x="38" y="222.3" xml:space="preserve">    ****++****++++*###*-#*==-:</text>
+          <text x="38" y="229.4" xml:space="preserve">    *++**++++=====+###*-*+=-:</text>
+          <text x="38" y="236.5" xml:space="preserve">    **===+++==---=+###+-=::</text>
+          <text x="38" y="243.6" xml:space="preserve">    =****----:::::*##*+-</text>
+          <text x="38" y="250.7" xml:space="preserve">     +**##**=    ###**=</text>
+          <text x="38" y="257.8" xml:space="preserve">      =**######%###**=-</text>
+          <text x="38" y="264.9" xml:space="preserve">       -+*########*+=-</text>
+          <text x="38" y="272.0" xml:space="preserve">         :++*#***+-::</text>
+          <text x="38" y="279.1" xml:space="preserve">             :::::</text>
+        </g>
+        <g transform="translate(0 1360)">
+          <text x="38" y="137.1" xml:space="preserve">            ***</text>
+          <text x="38" y="144.2" xml:space="preserve">        #%%%%####*+</text>
+          <text x="38" y="151.3" xml:space="preserve">      #%%%####*****+</text>
+          <text x="38" y="158.4" xml:space="preserve">     %%%###*+==++***+</text>
+          <text x="38" y="165.5" xml:space="preserve">    %%###*=-   -=#%%%##*</text>
+          <text x="38" y="172.6" xml:space="preserve">   #%%##=-   #%@@%%%%%###*+</text>
+          <text x="38" y="179.7" xml:space="preserve">   %%##=*##%%%%%%%%%%###**++-</text>
+          <text x="38" y="186.8" xml:space="preserve">   %%#*-####%%##**++++++++++=-</text>
+          <text x="38" y="193.9" xml:space="preserve">  *%##=#*#***+==- *%%#+ -====-</text>
+          <text x="38" y="201.0" xml:space="preserve">  +###=*=----     +%%#*  -==--</text>
+          <text x="38" y="208.1" xml:space="preserve">   ###+--:         #%%*  +=---</text>
+          <text x="38" y="215.2" xml:space="preserve">   *#**+=          #%#*-#*+=--</text>
+          <text x="38" y="222.3" xml:space="preserve">   =***********+++*#%#*=#+=-:</text>
+          <text x="38" y="229.4" xml:space="preserve">    =+*****+++====+*##*=+=-:</text>
+          <text x="38" y="236.5" xml:space="preserve">    +-=+++++++=--=+*##*=-:</text>
+          <text x="38" y="243.6" xml:space="preserve">     ***------:::::*#*+-</text>
+          <text x="38" y="250.7" xml:space="preserve">     :+**#**=     ##**=-</text>
+          <text x="38" y="257.8" xml:space="preserve">      =+**##########*+-</text>
+          <text x="38" y="264.9" xml:space="preserve">        =*#########++-</text>
+          <text x="38" y="272.0" xml:space="preserve">         -=+**#**+=-:</text>
+          <text x="38" y="279.1" xml:space="preserve">            ::::::</text>
+        </g>
+        <g transform="translate(0 1530)">
+          <text x="38" y="144.2" xml:space="preserve">        %%%%####*+</text>
+          <text x="38" y="151.3" xml:space="preserve">      %%%#####*****+</text>
+          <text x="38" y="158.4" xml:space="preserve">     %%###**++++****+</text>
+          <text x="38" y="165.5" xml:space="preserve">    %%#%*+--   *%%%%%%##*+</text>
+          <text x="38" y="172.6" xml:space="preserve">   %%##*=    %@@%%%%%###**+=</text>
+          <text x="38" y="179.7" xml:space="preserve">   %%#*- ##%%%%%%%##*****+++=</text>
+          <text x="38" y="186.8" xml:space="preserve">  #%##+####%###**+=----==++==-</text>
+          <text x="38" y="193.9" xml:space="preserve">  #%##=#*#***+--  #%##= -====-</text>
+          <text x="38" y="201.0" xml:space="preserve">  ###*-*+=----    *%%%+  ===--</text>
+          <text x="38" y="208.1" xml:space="preserve">  *##*===:         #%#*-*+==--</text>
+          <text x="38" y="215.2" xml:space="preserve">   ##**+-          #%##=#*==-:</text>
+          <text x="38" y="222.3" xml:space="preserve">   *******++****++**###+*++=:</text>
+          <text x="38" y="229.4" xml:space="preserve">    +*********++==+*###++=-:</text>
+          <text x="38" y="236.5" xml:space="preserve">     =++****+++=-==+###+-:</text>
+          <text x="38" y="243.6" xml:space="preserve">     +*-=====--::::*#**=</text>
+          <text x="38" y="250.7" xml:space="preserve">      +**##*=     ###*+-</text>
+          <text x="38" y="257.8" xml:space="preserve">       +*###########**=-</text>
+          <text x="38" y="264.9" xml:space="preserve">        =*#########*+=-</text>
+          <text x="38" y="272.0" xml:space="preserve">         :=+**##**+=-:</text>
+          <text x="38" y="279.1" xml:space="preserve">            :----::</text>
+        </g>
+        <g transform="translate(0 1700)">
+          <text x="38" y="144.2" xml:space="preserve">        %%%%####*=</text>
+          <text x="38" y="151.3" xml:space="preserve">      %%%###*******</text>
+          <text x="38" y="158.4" xml:space="preserve">     %%#*#**+++****###*</text>
+          <text x="38" y="165.5" xml:space="preserve">   *%%##*=--  #%@@%%%%##**=</text>
+          <text x="38" y="172.6" xml:space="preserve">   %%##+-   %%%%%%%%####**++</text>
+          <text x="38" y="179.7" xml:space="preserve">  #%##*-  #%%%%%#***++++++++=</text>
+          <text x="38" y="186.8" xml:space="preserve">  #%#*=+###%##*+=-#%%*---====-</text>
+          <text x="38" y="193.9" xml:space="preserve">  #%#*-##***+=-   #%%#=  -===-</text>
+          <text x="38" y="201.0" xml:space="preserve">  ###+-**+=--     *%%%*  ===--</text>
+          <text x="38" y="208.1" xml:space="preserve">  ###*=+=--        #%##=*++=--</text>
+          <text x="38" y="215.2" xml:space="preserve">  *##**==:         #%##+#*=--</text>
+          <text x="38" y="222.3" xml:space="preserve">   *##***+   ******=###*-+=:</text>
+          <text x="38" y="229.4" xml:space="preserve">   =***********++=+*###*-=:</text>
+          <text x="38" y="236.5" xml:space="preserve">     +*******+++===+*##*-</text>
+          <text x="38" y="243.6" xml:space="preserve">     =-=+++++=--::::***+-</text>
+          <text x="38" y="250.7" xml:space="preserve">      +**##*+      ##*+=</text>
+          <text x="38" y="257.8" xml:space="preserve">       +*###########**=-</text>
+          <text x="38" y="264.9" xml:space="preserve">        =**########*++-</text>
+          <text x="38" y="272.0" xml:space="preserve">          -+*####*+=--</text>
+          <text x="38" y="279.1" xml:space="preserve">            ::=--:::</text>
+        </g>
+        <g transform="translate(0 1870)">
+          <text x="38" y="144.2" xml:space="preserve">        #%%####**</text>
+          <text x="38" y="151.3" xml:space="preserve">      %%%####*****+</text>
+          <text x="38" y="158.4" xml:space="preserve">    #%%###**++**%%%%%%##*</text>
+          <text x="38" y="165.5" xml:space="preserve">   #%%##*=-- %@@%%%####***+</text>
+          <text x="38" y="172.6" xml:space="preserve">   %%##+-  #%%%%%%##*****++=-</text>
+          <text x="38" y="179.7" xml:space="preserve">  %%##+-  #%%%#**+=----==+++=</text>
+          <text x="38" y="186.8" xml:space="preserve">  %%#*- #####**= *%%%*  -====-</text>
+          <text x="38" y="193.9" xml:space="preserve">  %##+ #****+=-   #%%#+  ===--</text>
+          <text x="38" y="201.0" xml:space="preserve">  ###+***+=--     *%%%#  +==--</text>
+          <text x="38" y="208.1" xml:space="preserve">  ###*-*=--        #%%#+#*+=-:</text>
+          <text x="38" y="215.2" xml:space="preserve">  *###+-=:         *%##*-*==:</text>
+          <text x="38" y="222.3" xml:space="preserve">   ###**+:    ******###*=+=:</text>
+          <text x="38" y="229.4" xml:space="preserve">   +*#########**++++*##*=-:</text>
+          <text x="38" y="236.5" xml:space="preserve">    +****#***+*+====+#**=</text>
+          <text x="38" y="243.6" xml:space="preserve">      =+****++=-::::*#**=</text>
+          <text x="38" y="250.7" xml:space="preserve">      =**-----     ##**+-</text>
+          <text x="38" y="257.8" xml:space="preserve">       =*############**-</text>
+          <text x="38" y="264.9" xml:space="preserve">        -**#########*+=-</text>
+          <text x="38" y="272.0" xml:space="preserve">          =+*#####*+=-</text>
+          <text x="38" y="279.1" xml:space="preserve">            :-==--::</text>
+        </g>
+        <g transform="translate(0 2040)">
+          <text x="38" y="144.2" xml:space="preserve">        #%#####*</text>
+          <text x="38" y="151.3" xml:space="preserve">      %%%####**#***##**</text>
+          <text x="38" y="158.4" xml:space="preserve">    #%%#******%%@%%%%###*+</text>
+          <text x="38" y="165.5" xml:space="preserve">   #%%##*+--#@%%%%%####***+=</text>
+          <text x="38" y="172.6" xml:space="preserve">  *%%#*=-  %%%%%##*++++++++=-</text>
+          <text x="38" y="179.7" xml:space="preserve">  %%##=-  #%##**=-%%#= -==+=-</text>
+          <text x="38" y="186.8" xml:space="preserve">  %##+-  *##**=- #%%%*  -===--</text>
+          <text x="38" y="193.9" xml:space="preserve"> *%##+ ****++-   =#%%%+  ===--</text>
+          <text x="38" y="201.0" xml:space="preserve"> *%##+***+=--     #%%%#=*++=-:</text>
+          <text x="38" y="208.1" xml:space="preserve"> +###***+---       #%%%*#*+=-</text>
+          <text x="38" y="215.2" xml:space="preserve">  ####++-::        +#%##++=-:</text>
+          <text x="38" y="222.3" xml:space="preserve">  +####*=-     ******###++-:</text>
+          <text x="38" y="229.4" xml:space="preserve">   *######*####*++++*###+-</text>
+          <text x="38" y="236.5" xml:space="preserve">    +*####*#***+++==+*#*+-</text>
+          <text x="38" y="243.6" xml:space="preserve">     =+*******+=-::: #**=-</text>
+          <text x="38" y="250.7" xml:space="preserve">       --===---    *##**-</text>
+          <text x="38" y="257.8" xml:space="preserve">       :**######*####**=-</text>
+          <text x="38" y="264.9" xml:space="preserve">         +*#########**=-</text>
+          <text x="38" y="272.0" xml:space="preserve">          -+**####**+--</text>
+          <text x="38" y="279.1" xml:space="preserve">            ::====-::</text>
+        </g>
+        <g transform="translate(0 2210)">
+          <text x="38" y="144.2" xml:space="preserve">        *####**</text>
+          <text x="38" y="151.3" xml:space="preserve">      %%%#######%%%%%##*</text>
+          <text x="38" y="158.4" xml:space="preserve">    %%#####**%@@%%###****+=</text>
+          <text x="38" y="165.5" xml:space="preserve">   #%%#**+=*%%%%%###****+++=</text>
+          <text x="38" y="172.6" xml:space="preserve">  #%%#*=- #%%%##*+----==+++=-</text>
+          <text x="38" y="179.7" xml:space="preserve">  %%#*=  *#%##*=*#%%#- -====-</text>
+          <text x="38" y="186.8" xml:space="preserve"> *%##+-  ##**+-  #%%%*  ====-</text>
+          <text x="38" y="193.9" xml:space="preserve"> #%%#=  ***+=-   *#%%%*  ++=-</text>
+          <text x="38" y="201.0" xml:space="preserve"> #%##= **+=--     #%%%#+*+++-</text>
+          <text x="38" y="208.1" xml:space="preserve"> *###+**+---       #%%%#=*+=:</text>
+          <text x="38" y="215.2" xml:space="preserve"> =####=*+-:         ####*+=:</text>
+          <text x="38" y="222.3" xml:space="preserve">  *####+=-:    *****=###*--</text>
+          <text x="38" y="229.4" xml:space="preserve">  =*#####***####*++++*##*-</text>
+          <text x="38" y="236.5" xml:space="preserve">   =*#########*++====*#**=</text>
+          <text x="38" y="243.6" xml:space="preserve">     +*###*****+=-:: *#*+-</text>
+          <text x="38" y="250.7" xml:space="preserve">       -=+++=---    ##**=-</text>
+          <text x="38" y="257.8" xml:space="preserve">        +*######*#####++-</text>
+          <text x="38" y="264.9" xml:space="preserve">         +*#########**=-</text>
+          <text x="38" y="272.0" xml:space="preserve">          -+*#####**+=-</text>
+          <text x="38" y="279.1" xml:space="preserve">             -====-::</text>
+        </g>
+        <g transform="translate(0 2380)">
+          <text x="38" y="144.2" xml:space="preserve">          ***+     *</text>
+          <text x="38" y="151.3" xml:space="preserve">      #%%######%%%%%###*+</text>
+          <text x="38" y="158.4" xml:space="preserve">    *%%#*###%@%%%####****+=</text>
+          <text x="38" y="165.5" xml:space="preserve">   %%###*++%%%%%##+++++++++=</text>
+          <text x="38" y="172.6" xml:space="preserve">  #%##*=- %%%%#*=-%#= -==++=-</text>
+          <text x="38" y="179.7" xml:space="preserve">  %%#*=  #%%#*=+#%%%*   ==+=-</text>
+          <text x="38" y="186.8" xml:space="preserve"> #%##+-  ##*+-  +#%%%*  =++=-</text>
+          <text x="38" y="193.9" xml:space="preserve"> #%#*=  ***+=    *#%%%# +++=-</text>
+          <text x="38" y="201.0" xml:space="preserve"> #%#*- **+==-     *#%%%***+=-</text>
+          <text x="38" y="208.1" xml:space="preserve"> #%##= *+=--       *#%%#**+-:</text>
+          <text x="38" y="215.2" xml:space="preserve"> *###***=--:        *###*==:</text>
+          <text x="38" y="222.3" xml:space="preserve">  ####**==:    *****#*##*+:</text>
+          <text x="38" y="229.4" xml:space="preserve">  *#####*+: *###**++++##*+</text>
+          <text x="38" y="236.5" xml:space="preserve">   +*#########**+====-##*+</text>
+          <text x="38" y="243.6" xml:space="preserve">    =*######***+=-:: ##**=</text>
+          <text x="38" y="250.7" xml:space="preserve">      -=+**++==-    ##**+-</text>
+          <text x="38" y="257.8" xml:space="preserve">        =*######*#####*+=-</text>
+          <text x="38" y="264.9" xml:space="preserve">         -*##########*+--</text>
+          <text x="38" y="272.0" xml:space="preserve">           =**#####*+=-</text>
+          <text x="38" y="279.1" xml:space="preserve">             :=+==--:</text>
+        </g>
+        <g transform="translate(0 2550)">
+          <text x="38" y="144.2" xml:space="preserve">                #%%###*</text>
+          <text x="38" y="151.3" xml:space="preserve">       #%####%%%%%####**+=</text>
+          <text x="38" y="158.4" xml:space="preserve">    *%%%####@%%#%#*#****++=</text>
+          <text x="38" y="165.5" xml:space="preserve">   #%###**%%%%##*+---=+++++-</text>
+          <text x="38" y="172.6" xml:space="preserve">  #%%#**=*%%##*=%%#*  -==++=</text>
+          <text x="38" y="179.7" xml:space="preserve">  %%#*=- #%#*+-*#%%##   ==+=-</text>
+          <text x="38" y="186.8" xml:space="preserve"> #%##+- *##*+-  *#%%%#- +++=-</text>
+          <text x="38" y="193.9" xml:space="preserve"> #%#*=  ***+-    *#%%%#=+++=-</text>
+          <text x="38" y="201.0" xml:space="preserve"> #%#*- ++++=-     *##%%#+*+=:</text>
+          <text x="38" y="208.1" xml:space="preserve"> #%%#= *+==-       +#%##*-+:</text>
+          <text x="38" y="215.2" xml:space="preserve"> #%##* *=---       *=####+-:</text>
+          <text x="38" y="222.3" xml:space="preserve"> +####**+=-     ##***+###+-</text>
+          <text x="38" y="229.4" xml:space="preserve">  *#####++-  *###*+++**##+-</text>
+          <text x="38" y="236.5" xml:space="preserve">   *###########**+===-*#*+-</text>
+          <text x="38" y="243.6" xml:space="preserve">    +*########*+==-:  ***+-</text>
+          <text x="38" y="250.7" xml:space="preserve">      +******++--   *##**=</text>
+          <text x="38" y="257.8" xml:space="preserve">        -----####*####**+-</text>
+          <text x="38" y="264.9" xml:space="preserve">         :+*#########**+-</text>
+          <text x="38" y="272.0" xml:space="preserve">           -+*#####*+=--</text>
+          <text x="38" y="279.1" xml:space="preserve">              -====-::</text>
+        </g>
+        <g transform="translate(0 2720)">
+          <text x="38" y="144.2" xml:space="preserve">              #%%%%###*+</text>
+          <text x="38" y="151.3" xml:space="preserve">       *#####%%%####****+=</text>
+          <text x="38" y="158.4" xml:space="preserve">     %%####%%%###***+***++=</text>
+          <text x="38" y="165.5" xml:space="preserve">   #%%#***%%%##*=-----=+++=-</text>
+          <text x="38" y="172.6" xml:space="preserve">   %##**=%%%#*=#%%#*  -==++-</text>
+          <text x="38" y="179.7" xml:space="preserve">  %%#*+-+%##*-=##%%##  =+++=</text>
+          <text x="38" y="186.8" xml:space="preserve"> #%##+- *##+=   #%%%%#* +++=:</text>
+          <text x="38" y="193.9" xml:space="preserve"> #%#*=  ***+-    #%#%%#**++=</text>
+          <text x="38" y="201.0" xml:space="preserve"> #%#*-  *++=-     +##%%#*++-</text>
+          <text x="38" y="208.1" xml:space="preserve"> #%#*- ++==-       =#%###+=:</text>
+          <text x="38" y="215.2" xml:space="preserve"> #%##+ ++---       ##*###*-</text>
+          <text x="38" y="222.3" xml:space="preserve"> *#%%#+*+=-:    *##****##*=</text>
+          <text x="38" y="229.4" xml:space="preserve">  #####*++-:  ####*++**##*=</text>
+          <text x="38" y="236.5" xml:space="preserve">  =##########%##*+==-:+#**=</text>
+          <text x="38" y="243.6" xml:space="preserve">    *##########*+=-:  ##*+-</text>
+          <text x="38" y="250.7" xml:space="preserve">     =*######*+=-    ##*+=-</text>
+          <text x="38" y="257.8" xml:space="preserve">       --===---####%###*+-</text>
+          <text x="38" y="264.9" xml:space="preserve">          =*#########**+-</text>
+          <text x="38" y="272.0" xml:space="preserve">            =*#####*+=--</text>
+          <text x="38" y="279.1" xml:space="preserve">              :====-::</text>
+        </g>
+        <g transform="translate(0 2890)">
+          <text x="38" y="144.2" xml:space="preserve">             *%%%%####*+</text>
+          <text x="38" y="151.3" xml:space="preserve">        *###%%%%####****+=</text>
+          <text x="38" y="158.4" xml:space="preserve">     *%%###%%###*++=++++++-</text>
+          <text x="38" y="165.5" xml:space="preserve">    %%##*#%###*=-#- --=+++=-</text>
+          <text x="38" y="172.6" xml:space="preserve">   %%#***%%##+-#%%#+  -=++=-</text>
+          <text x="38" y="179.7" xml:space="preserve">  %%#*+-#%##+-*##%%%#  =+++-</text>
+          <text x="38" y="186.8" xml:space="preserve"> #%%#*- ###*-  +*%%%%%#++++-</text>
+          <text x="38" y="193.9" xml:space="preserve"> #%#*=  **+=-    *#%%%%#=++-</text>
+          <text x="38" y="201.0" xml:space="preserve"> #%#*-  *++=      +*#%%#*=+:</text>
+          <text x="38" y="208.1" xml:space="preserve"> #%%*-  +==-        +####*-</text>
+          <text x="38" y="215.2" xml:space="preserve"> #%##= ++=--       ##+###*+</text>
+          <text x="38" y="222.3" xml:space="preserve"> *#%#* ++=-:    *##***+##*+</text>
+          <text x="38" y="229.4" xml:space="preserve">  #%%%#++==:  *###*+=+=***+</text>
+          <text x="38" y="236.5" xml:space="preserve">  *###%%##*##%%##*+=-: ***+</text>
+          <text x="38" y="243.6" xml:space="preserve">   =#####%%%###**+--  ##**=</text>
+          <text x="38" y="250.7" xml:space="preserve">    -+########*+=-   ###*+-</text>
+          <text x="38" y="257.8" xml:space="preserve">       ==++++=-####%###**-</text>
+          <text x="38" y="264.9" xml:space="preserve">          :+*########**+--</text>
+          <text x="38" y="272.0" xml:space="preserve">            -+*#####++--</text>
+          <text x="38" y="279.1" xml:space="preserve">               ----::</text>
+        </g>
+        <g transform="translate(0 3060)">
+          <text x="38" y="137.1" xml:space="preserve">                ###**</text>
+          <text x="38" y="144.2" xml:space="preserve">             %%%%###***+</text>
+          <text x="38" y="151.3" xml:space="preserve">           %%%%####*****+=</text>
+          <text x="38" y="158.4" xml:space="preserve">      #%%#%%###*++===+++++-</text>
+          <text x="38" y="165.5" xml:space="preserve">    #%###%%%%#+-#*   -=+++=</text>
+          <text x="38" y="172.6" xml:space="preserve">   %%##*#%%#*-#%%##+  -+++=-</text>
+          <text x="38" y="179.7" xml:space="preserve">  #%#**=#%#*==*#%%%%#+ +++=-</text>
+          <text x="38" y="186.8" xml:space="preserve"> *%##*- ##*+-  *##%%%%#=*++:</text>
+          <text x="38" y="193.9" xml:space="preserve"> #%#*=  #**=    -*#%%%%#++=:</text>
+          <text x="38" y="201.0" xml:space="preserve"> #%#*-  *++-      -*#%###*=</text>
+          <text x="38" y="208.1" xml:space="preserve"> #%#+   +==-        =*###*=</text>
+          <text x="38" y="215.2" xml:space="preserve"> #%%*-  ==--      *###*###+</text>
+          <text x="38" y="222.3" xml:space="preserve"> *%%#*  +---    *###*+**#*+-</text>
+          <text x="38" y="229.4" xml:space="preserve"> +#%%#* +==-:  #%#*++=-***+-</text>
+          <text x="38" y="236.5" xml:space="preserve">  *##%%#*++=*%%%#*+=-: ***+-</text>
+          <text x="38" y="243.6" xml:space="preserve">   *###%%%%%%%##*+=-  ##**+-</text>
+          <text x="38" y="250.7" xml:space="preserve">    +*#########*=-   ###*+-</text>
+          <text x="38" y="257.8" xml:space="preserve">      =+*****+=-##%%###*+=-</text>
+          <text x="38" y="264.9" xml:space="preserve">           =*#######***+--</text>
+          <text x="38" y="272.0" xml:space="preserve">             =+*****+==-</text>
+          <text x="38" y="279.1" xml:space="preserve">                :::::</text>
+        </g>
+        <g transform="translate(0 3230)">
+          <text x="38" y="137.1" xml:space="preserve">               #####*</text>
+          <text x="38" y="144.2" xml:space="preserve">            %%%%###****+</text>
+          <text x="38" y="151.3" xml:space="preserve">          #@%%####*****++-</text>
+          <text x="38" y="158.4" xml:space="preserve">       ##%%%%##*=---=++++=</text>
+          <text x="38" y="165.5" xml:space="preserve">    *%%##%%%#+-%#+   -=+++-</text>
+          <text x="38" y="172.6" xml:space="preserve">   #%##*%%##+-#%%##+  =+++-</text>
+          <text x="38" y="179.7" xml:space="preserve">  #%###*%%#+-*#%%%%%%* +++=</text>
+          <text x="38" y="186.8" xml:space="preserve">  %##*=*##*=  -*#%%%%%#*++=</text>
+          <text x="38" y="193.9" xml:space="preserve"> #%#*+ *#*+-    =*#%%%%#**-</text>
+          <text x="38" y="201.0" xml:space="preserve"> #%#*- +*++-       +#####*=</text>
+          <text x="38" y="208.1" xml:space="preserve"> #%#*-  +==-        #+###*+</text>
+          <text x="38" y="215.2" xml:space="preserve"> #%%*-  ==--      ####+*#**=</text>
+          <text x="38" y="222.3" xml:space="preserve"> #%##+  =---:    ###*+++***=</text>
+          <text x="38" y="229.4" xml:space="preserve"> +#%##+ +==-:  #%%#+==:+***=</text>
+          <text x="38" y="236.5" xml:space="preserve">  ##%%##+++=-#%%%#++-  ***+-</text>
+          <text x="38" y="243.6" xml:space="preserve">   ####%%%%%%%%##*=-  ****+-</text>
+          <text x="38" y="250.7" xml:space="preserve">    +#########*#*=- *###**=-</text>
+          <text x="38" y="257.8" xml:space="preserve">     -+*#####*+--#%%###*+=-</text>
+          <text x="38" y="264.9" xml:space="preserve">        ------#######**+--</text>
+          <text x="38" y="272.0" xml:space="preserve">             :=+****+==:</text>
+        </g>
+        <g transform="translate(0 3400)">
+          <text x="38" y="137.1" xml:space="preserve">              #%%###*+</text>
+          <text x="38" y="144.2" xml:space="preserve">            %%%###*****+</text>
+          <text x="38" y="151.3" xml:space="preserve">          %%%###*******++</text>
+          <text x="38" y="158.4" xml:space="preserve">       *#%%%##*+----==+++=</text>
+          <text x="38" y="165.5" xml:space="preserve">     #%%%%%%#+-#*    ==++=-</text>
+          <text x="38" y="172.6" xml:space="preserve">    %%#*%%#*=%%%%##+  =++=-</text>
+          <text x="38" y="179.7" xml:space="preserve">  *%####%##=+###%%%%%#++++-</text>
+          <text x="38" y="186.8" xml:space="preserve">  %##*+###+-  +*#%#%%%%#++-</text>
+          <text x="38" y="193.9" xml:space="preserve"> *%#*+-##*+-    =*##%####+:</text>
+          <text x="38" y="201.0" xml:space="preserve"> #%#*- ***+-       =*####*+</text>
+          <text x="38" y="208.1" xml:space="preserve"> ###*- +++=-       *#=*###*=</text>
+          <text x="38" y="215.2" xml:space="preserve"> #%#*-  ===--     ###*+****+</text>
+          <text x="38" y="222.3" xml:space="preserve"> #%##+  =----    ###*++=***=</text>
+          <text x="38" y="229.4" xml:space="preserve"> *#%##= ==--:   %%#*-=: ***+-</text>
+          <text x="38" y="236.5" xml:space="preserve">  ##%##*======#%%#*=-  ***+=</text>
+          <text x="38" y="243.6" xml:space="preserve">   ###%%%###%%%%#*+-  *#*++-</text>
+          <text x="38" y="250.7" xml:space="preserve">   -*##%%%%%####*+-+####*==-</text>
+          <text x="38" y="257.8" xml:space="preserve">     +*#######*+-######*+=-</text>
+          <text x="38" y="264.9" xml:space="preserve">       -=++===-*#####**=-:</text>
+          <text x="38" y="272.0" xml:space="preserve">              :-=++==-::</text>
+        </g>
+        <g transform="translate(0 3570)">
+          <text x="38" y="137.1" xml:space="preserve">              %%####*=</text>
+          <text x="38" y="144.2" xml:space="preserve">           %%%%###****+=</text>
+          <text x="38" y="151.3" xml:space="preserve">         *@%%##***+***++=</text>
+          <text x="38" y="158.4" xml:space="preserve">        #%%###+=----=++++-</text>
+          <text x="38" y="165.5" xml:space="preserve">      %%%%%#+-##*   -=+++=</text>
+          <text x="38" y="172.6" xml:space="preserve">    #%#%%##+-#%%%##*  +++=:</text>
+          <text x="38" y="179.7" xml:space="preserve">   %%##%%#*-**##%%%%%#*+++:</text>
+          <text x="38" y="186.8" xml:space="preserve">  #%#**###+  -+#%%%%%%%#*+:</text>
+          <text x="38" y="193.9" xml:space="preserve"> *%##+-#**=     =+##%%###*:</text>
+          <text x="38" y="201.0" xml:space="preserve"> #%#*= **+=-       -+*####*-</text>
+          <text x="38" y="208.1" xml:space="preserve"> #%#*- +++=-       #%#+*#**+</text>
+          <text x="38" y="215.2" xml:space="preserve"> ###*- ====--     ###*++***+-</text>
+          <text x="38" y="222.3" xml:space="preserve"> *###=  -----    %%#*==:***+-</text>
+          <text x="38" y="229.4" xml:space="preserve"> *###*- =---::  %%#*=-: +*++-</text>
+          <text x="38" y="236.5" xml:space="preserve">  #####+ ===-=-%%#*+=   **+=-</text>
+          <text x="38" y="243.6" xml:space="preserve">  =###%##*++#%%%#**=  ##*++-</text>
+          <text x="38" y="250.7" xml:space="preserve">   +###%%%%%%%###*=#####*+=-</text>
+          <text x="38" y="257.8" xml:space="preserve">    -+*########*+-#####*+=-</text>
+          <text x="38" y="264.9" xml:space="preserve">       ++**+++=-*###**+=-:</text>
+          <text x="38" y="272.0" xml:space="preserve">                :----::</text>
+        </g>
+        <g transform="translate(0 3740)">
+          <text x="38" y="137.1" xml:space="preserve">             #%%###*+</text>
+          <text x="38" y="144.2" xml:space="preserve">           %%%###*****+</text>
+          <text x="38" y="151.3" xml:space="preserve">         %@%%##****++*++=</text>
+          <text x="38" y="158.4" xml:space="preserve">        %%%##*+-----=+++=-</text>
+          <text x="38" y="165.5" xml:space="preserve">      *#%###+-##    -==+=-</text>
+          <text x="38" y="172.6" xml:space="preserve">    *%#%%##=#%%%%%#* =+++-</text>
+          <text x="38" y="179.7" xml:space="preserve">   #%##%##+*###%%%%%%%#++=</text>
+          <text x="38" y="186.8" xml:space="preserve">  #%###%#*= -=*#%%#%%%%#*=</text>
+          <text x="38" y="193.9" xml:space="preserve">  %##**#**-    -=+*######*+</text>
+          <text x="38" y="201.0" xml:space="preserve"> *%#*=***+=-        =+####*=</text>
+          <text x="38" y="208.1" xml:space="preserve"> ###*- *++=-       #%#=****+-</text>
+          <text x="38" y="215.2" xml:space="preserve"> ###*- =+==--     %##*+-+**+-</text>
+          <text x="38" y="222.3" xml:space="preserve"> *###=  -----    #%#*=- ++++-</text>
+          <text x="38" y="229.4" xml:space="preserve"> +###*-  ---::  #%%#+=  +*++-</text>
+          <text x="38" y="236.5" xml:space="preserve">  *####  =----=#%%#+=   **+=-</text>
+          <text x="38" y="243.6" xml:space="preserve">  +#####* ===*%%%#*+- ##**+=-</text>
+          <text x="38" y="250.7" xml:space="preserve">   =###%%%%%%%%###+-####*+=-</text>
+          <text x="38" y="257.8" xml:space="preserve">    =*##########*=-##*#*+-:</text>
+          <text x="38" y="264.9" xml:space="preserve">      -+**#***+=-*+**+=-:</text>
+          <text x="38" y="272.0" xml:space="preserve">          ----     :</text>
+        </g>
+        <g transform="translate(0 3910)">
+          <text x="38" y="137.1" xml:space="preserve">             #%%###*+</text>
+          <text x="38" y="144.2" xml:space="preserve">          #%%%###*****+</text>
+          <text x="38" y="151.3" xml:space="preserve">         %%%###*****++++</text>
+          <text x="38" y="158.4" xml:space="preserve">        %%%##*=-----=+++=</text>
+          <text x="38" y="165.5" xml:space="preserve">       %%#%*=-#+    ==++=-</text>
+          <text x="38" y="172.6" xml:space="preserve">     %#%%#*-%%%%%##* +++=-</text>
+          <text x="38" y="179.7" xml:space="preserve">   #%#%%##=###%%%%%%%%#*+-</text>
+          <text x="38" y="186.8" xml:space="preserve">  *%#####*--=+*#%%%%#%%##+</text>
+          <text x="38" y="193.9" xml:space="preserve">  #######+-    -++*##%####+</text>
+          <text x="38" y="201.0" xml:space="preserve"> +###+***+-         -+*##**+</text>
+          <text x="38" y="208.1" xml:space="preserve"> *##*=+*++=-       %##*+***+=</text>
+          <text x="38" y="215.2" xml:space="preserve"> *##*= ++==--     %%#*=:++++=</text>
+          <text x="38" y="222.3" xml:space="preserve"> *###=  ==---:   #%%*+-  +++=</text>
+          <text x="38" y="229.4" xml:space="preserve"> =###*:  ----:-  %##*=  *+++-</text>
+          <text x="38" y="236.5" xml:space="preserve">  *###*  -----=+%%#*+- ***+=-</text>
+          <text x="38" y="243.6" xml:space="preserve">  =#####+ -===#%%#*+-###*++=-</text>
+          <text x="38" y="250.7" xml:space="preserve">   +####%##%%%%###*-###**==:</text>
+          <text x="38" y="257.8" xml:space="preserve">    -*###########+-#***+=-:</text>
+          <text x="38" y="264.9" xml:space="preserve">      +*######*+=-====::</text>
+          <text x="38" y="272.0" xml:space="preserve">        ---==--</text>
+        </g>
+      </g>
+    </g>
+
+    <g fill="#edf0ee" font-size="16" font-weight="700">
+      <text x="274" y="89">Career</text>
+      <text x="274" y="172">Stack</text>
+      <text x="274" y="221">Interests</text>
+      <text x="274" y="287">GPUs</text>
+    </g>
+    <g fill="#c0c6c4" font-size="19">
+      <text x="274" y="112">I started out as a backend engineer.</text>
+      <text x="274" y="134">Now I work as a <tspan fill="#a8cbb1">product engineer</tspan>.</text>
+      <text x="274" y="194">Kotlin · Spring Boot</text>
+      <text x="274" y="243">I’m interested in local LLMs and AI</text>
+      <text x="274" y="265">image and video generation.</text>
+      <text x="274" y="310">CMP170HX 8GB · RTX 5080</text>
+    </g>
+
+    <rect x="17.5" y="350.5" width="665" height="32" rx="7" fill="#151717" stroke="#3d4443"/>
+    <text x="32" y="371" fill="#a8cbb1" font-size="15">jeonghyeon00@local<tspan fill="#b5beb9">:~$</tspan></text>
+    <rect x="212" y="360" width="8" height="13" rx="1" fill="#a8cbb1"/>
+  </g>
+  <rect x="0.5" y="0.5" width="699" height="399" rx="13.5" fill="none" stroke="#333837"/>
+</svg>
